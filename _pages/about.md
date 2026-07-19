@@ -1,8 +1,10 @@
 ---
-title: "About"
+title: "About Manikandan Swaminathan"
 permalink: /about/
 author_profile: true
 ---
+
+I am Manikandan Swaminathan — security analyst, bug bounty enthusiast, learning in public.
 
 My security journey started in 2014 after i completed my Masters in Information Security and Computer Forensics.
 

@@ -1,10 +1,20 @@
 title: "The Edge"
 subtitle: "Close but not there yet."
-name: "Manikandan"
-description: "Documenting my AI-assisted bug bounty journey — the recon wins, the rejected findings, and the gap I'm closing in public."
+name: "Manikandan Swaminathan"
+description: "Manikandan Swaminathan — Security analyst, AI-assisted bug bounty enthusiast. Documenting the hunt, the rejections, and the gap i am closing in public."
 url: "https://ausmanki.github.io"
 baseurl: ""
 repository: "ausmanki/ausmanki.github.io"
+
+# SEO
+twitter:
+  username: ""
+og_image: ""
+social:
+  name: "Manikandan Swaminathan"
+  links:
+    - "https://github.com/ausmanki"
+    - "https://www.linkedin.com/in/manikandan-swaminathan-98189722"
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"

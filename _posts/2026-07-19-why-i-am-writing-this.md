@@ -4,6 +4,11 @@ date: 2026-07-19
 categories: [intro]
 tags: [bug bounty, ai, learning-in-public, application-security, security-analyst, ai-assisted-security]
 excerpt: "i started my bug bounty journey around 2015. back then i would search pages and pages in google, bookmark links, practice things multiple times."
+header:
+  og_image: ""
+seo:
+  name: "Manikandan Swaminathan"
+  type: BlogPosting
 ---
 
 i started my bug bounty journey around 2015.
