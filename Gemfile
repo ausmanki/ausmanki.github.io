@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
-gem "minimal-mistakes-jekyll", "~> 4.26"
+gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
   gem "jekyll-paginate"
@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jekyll-include-cache"
+  gem "jekyll-remote-theme"
 end

@@ -6,7 +6,7 @@ url: "https://ausmanki.github.io"
 baseurl: ""
 repository: "ausmanki/ausmanki.github.io"
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 
 # Author
@@ -39,6 +39,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Pagination
 paginate: 5
