@@ -3,25 +3,25 @@ title: "Why I'm Writing This"
 date: 2026-07-19
 categories: [intro]
 tags: [bug bounty, ai, learning-in-public, application-security, security-analyst, ai-assisted-security]
-excerpt: "I am not a bug bounty hunter. I am just a security analyst who got obsessed with it and started using AI to hunt."
+excerpt: "i started my bug bounty journey around 2015. back then i would search pages and pages in google, bookmark links, practice things multiple times."
 ---
 
-I am not a bug bounty hunter.
+i started my bug bounty journey around 2015.
 
-I am a security analyst who got obsessed with bug bounty and started using AI to see how far i could go. There is a difference.
+back then i would just search pages and pages in google, bookmark links, practice things multiple times. it was slow, it was hard, but that's how you learned. there was no shortcut.
 
-I used AI — mostly Claude — to do recon, understand targets, map the attack surface. That part actually works. I can get to interesting findings faster than i ever could manually.
+then AI came and all that grunt effort is now just pure prompts. recon that used to take days — done. understanding a target — done. mapping the surface — done. i thought okay, now i will finally get somewhere with bug bounty.
 
-The problem is interesting doesn't pay.
+but inspite of all that, either the bug is duplicate, ignored, or informational. and because of that my signal keeps going down.
 
-Every time i submit something it comes back — not exploitable, too generic, already known, out of scope. The recon is fine. The findings are real. But i am missing the part that turns a finding into a bounty. The right way to ask AI, the right proof, the right chain that makes someone actually care.
+that's the gap i am trying to close. the right prompt that gets me from interesting to exploitable. the finding that nobody reported yet. the proof that makes a triage team actually pay attention.
 
-I haven't cracked that yet.
+i haven't cracked it yet. but i am documenting every hunt until i do.
 
-So i am writing this to document the journey. What AI found, what i submitted, why it got rejected, what i am learning. I also track CVEs, threat actors, techniques in my [research wiki](https://ausmanki.github.io/cybersec-wiki). The blog is where i connect the dots.
+i also have a [research wiki](https://ausmanki.github.io/cybersec-wiki) where i track CVEs, threat actors and techniques i study. this blog is where i connect all of it to my actual journey.
 
-Some posts will be long. Some will just be what happened today and what i still don't understand.
+some posts will be long. some will just be what happened today and what i still don't understand. whatever the moment needs.
 
-The name is The Edge. That's where i am. Close but not there yet.
+the name is The Edge. that's where i am. close but not there yet.
 
 — Manikandan
