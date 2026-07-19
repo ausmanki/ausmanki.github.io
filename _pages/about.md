@@ -4,18 +4,16 @@ permalink: /about/
 author_profile: true
 ---
 
-Security researcher. Bug bounty hunter. Not an expert — yet.
+Security analyst. Bug bounty enthusiast. Learning in public.
 
-I spend my time hunting for vulnerabilities and using AI as my main tool. Claude handles the recon, maps the attack surface, identifies the endpoints. That part works well. I'm still figuring out how to turn "interesting" into "exploitable."
+I work in security and on the side i try bug bounty. Not a professional hunter — just someone who got obsessed with it and started using AI to see how far i could go.
 
-That gap is what this blog is about.
+AI does the recon, maps the attack surface, finds the endpoints. That part actually works. The problem is i haven't cracked the part that pays yet. The findings come back — not exploitable, too generic, already known. I'm still figuring out the right way to hunt.
 
-I document every hunt — what AI found, what I submitted, why it got rejected, what I learned. The wins. The failures. The slow process of getting better.
+That's what this blog is about. The journey, not the destination.
 
-I also maintain a [Research Wiki](https://ausmanki.github.io/cybersec-wiki) — a living knowledge base of CVEs, threat actors, and attack techniques I've studied. The blog is where I make sense of it all.
+I also have a [Research Wiki](https://ausmanki.github.io/cybersec-wiki) where i track CVEs, threat actors, and techniques i am studying. The blog is where i make sense of it.
 
-**The Edge** is about where I am right now. Close enough to see what works. Still hunting for the shot that pays.
+If you are a recruiter — this is who i am. Security analyst, curious, doesn't give up.
 
-If you're a recruiter — this is who I am. Someone who doesn't quit, learns in public, and is genuinely obsessed with security.
-
-If you're another hunter — welcome. We're probably in the same place.
+If you are also doing bug bounty with AI — we are probably in the same place.
