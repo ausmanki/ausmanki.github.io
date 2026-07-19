@@ -1,0 +1,81 @@
+title: "The Edge"
+subtitle: "Close but not there yet."
+name: "Manikandan"
+description: "Documenting my AI-assisted bug bounty journey — the recon wins, the rejected findings, and the gap I'm closing in public."
+url: "https://ausmanki.github.io"
+baseurl: ""
+repository: "ausmanki/ausmanki.github.io"
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+
+# Author
+author:
+  name: "Manikandan"
+  bio: "Security researcher. Bug bounty hunter. Learning in public."
+  location: "India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ausmanki"
+    - label: "Research Wiki"
+      icon: "fas fa-fw fa-book"
+      url: "https://ausmanki.github.io/cybersec-wiki"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/manikandan-swaminathan"
+
+# Site settings
+locale: "en-US"
+timezone: "Asia/Kolkata"
+breadcrumbs: false
+words_per_minute: 200
+read_time: true
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      comments: false
+      share: false
+      related: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Exclude from build
+exclude:
+  - "*.sh"
+  - vendor/
