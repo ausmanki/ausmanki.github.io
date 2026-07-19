@@ -3,7 +3,7 @@ title: "Why I'm Writing This"
 date: 2026-07-19
 categories: [intro]
 tags: [bug bounty, ai, learning-in-public, application-security, security-analyst, ai-assisted-security]
-excerpt: "i started my bug bounty journey around 2015. back then i would search pages and pages in google, bookmark links, practice things multiple times."
+excerpt: "I started my bug bounty journey around 2015. Back then I would search pages and pages in Google, bookmark links, practice things multiple times."
 header:
   og_image: ""
 seo:
@@ -11,22 +11,22 @@ seo:
   type: BlogPosting
 ---
 
-i started my bug bounty journey around 2015.
+I started my bug bounty journey around 2015.
 
-back then i would just search pages and pages in google, bookmark links, practice things multiple times. it was slow, it was hard, but that's how you learned. there was no shortcut.
+Back then I would just search pages and pages in Google, bookmark links, practice things multiple times. It was slow, it was hard, but that's how you learned. There was no shortcut.
 
-then AI came and all that grunt effort is now just pure prompts. recon that used to take days — done. understanding a target — done. mapping the surface — done. i thought okay, now i will finally get somewhere with bug bounty.
+Then AI came and all that grunt effort is now just pure prompts. Recon that used to take days — done. Understanding a target — done. Mapping the surface — done. I thought okay, now I will finally get somewhere with bug bounty.
 
-but inspite of all that, either the bug is duplicate, ignored, or informational. and because of that my signal keeps going down.
+But in spite of all that, either the bug is duplicate, ignored, or informational. And because of that my signal keeps going down.
 
-that's the gap i am trying to close. the right prompt that gets me from interesting to exploitable. the finding that nobody reported yet. the proof that makes a triage team actually pay attention.
+That's the gap I am trying to close. The right prompt that gets me from interesting to exploitable. The finding that nobody reported yet. The proof that makes a triage team actually pay attention.
 
-i haven't cracked it yet. but i am documenting every hunt until i do.
+I haven't cracked it yet. But I am documenting every hunt until I do.
 
-i also have a [research wiki](https://ausmanki.github.io/cybersec-wiki) where i track CVEs, threat actors and techniques i study. this blog is where i connect all of it to my actual journey.
+I also have a [research wiki](https://ausmanki.github.io/cybersec-wiki) where I track CVEs, threat actors and techniques I study. This blog is where I connect all of it to my actual journey.
 
-some posts will be long. some will just be what happened today and what i still don't understand. whatever the moment needs.
+Some posts will be long. Some will just be what happened today and what I still don't understand. Whatever the moment needs.
 
-the name is The Edge. that's where i am. close but not there yet.
+The name is The Edge. That's where I am. Close but not there yet.
 
 — Manikandan
