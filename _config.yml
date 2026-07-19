@@ -32,6 +32,10 @@ breadcrumbs: false
 words_per_minute: 200
 read_time: true
 
+# Include _pages
+include:
+  - _pages
+
 # Plugins
 plugins:
   - jekyll-paginate
