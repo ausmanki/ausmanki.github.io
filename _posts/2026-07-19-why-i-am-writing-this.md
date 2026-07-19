@@ -2,7 +2,7 @@
 title: "Why I'm Writing This"
 date: 2026-07-19
 categories: [intro]
-tags: [bug bounty, ai, learning-in-public]
+tags: [bug bounty, ai, learning-in-public, application-security, security-analyst, ai-assisted-security]
 excerpt: "I am not a bug bounty hunter. I am just a security analyst who got obsessed with it and started using AI to hunt."
 ---
 

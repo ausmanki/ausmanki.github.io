@@ -4,16 +4,20 @@ permalink: /about/
 author_profile: true
 ---
 
-Security analyst. Bug bounty enthusiast. Learning in public.
+I started in security around 2014-2015.
 
-I work in security and on the side i try bug bounty. Not a professional hunter — just someone who got obsessed with it and started using AI to see how far i could go.
+Back then getting anything done was hard work. No AI, no shortcuts — just manual effort, reading writeups, figuring things out the slow way. I learned pentesting, threat modelling, application security, DevSecOps. Over the years i worked across big tech and built a solid foundation in all of it.
 
-AI does the recon, maps the attack surface, finds the endpoints. That part actually works. The problem is i haven't cracked the part that pays yet. The findings come back — not exploitable, too generic, already known. I'm still figuring out the right way to hunt.
+Then AI came along and changed everything. The grunt work that used to take days now takes minutes. Recon, surface discovery, understanding a target — AI handles it fast. I thought bug bounty would finally click.
 
-That's what this blog is about. The journey, not the destination.
+It still hasn't.
 
-I also have a [Research Wiki](https://ausmanki.github.io/cybersec-wiki) where i track CVEs, threat actors, and techniques i am studying. The blog is where i make sense of it.
+That's the honest truth. Ten years in security, comfortable doing everything from pentesting to AI-assisted application security, but bug bounty keeps slipping through. The findings come back rejected. Not exploitable. Too generic.
 
-If you are a recruiter — this is who i am. Security analyst, curious, doesn't give up.
+I am still figuring out why.
 
-If you are also doing bug bounty with AI — we are probably in the same place.
+This blog is me documenting that gap in public. The hunts, the rejections, the things i am learning, the moment it finally works. I also maintain a [Research Wiki](https://ausmanki.github.io/cybersec-wiki) where i track CVEs, threat actors and techniques — the blog is where i connect it all to my actual journey.
+
+If you landed here as a recruiter — i am a security analyst with a decade of experience and a genuine obsession with this craft.
+
+If you are another enthusiast stuck in the same place — welcome.
