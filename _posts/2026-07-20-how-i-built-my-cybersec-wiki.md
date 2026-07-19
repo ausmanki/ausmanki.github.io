@@ -20,7 +20,7 @@ every CVE i studied — page. every threat actor, technique, incident — docume
 
 and it just kept growing.
 
-what started as a few pages is now 790 pages. 298 CVEs. 59 threat actors. 47 techniques. 28 defense playbooks. 69 unanswered questions i am still going through.
+what started as a few pages is now 790 pages. 298 CVEs. 59 threat actors. 47 techniques. 28 defense playbooks. 69 unanswered questions i am still going through. and it is still growing.
 
 you can check it out at [ausmanki.github.io/cybersec-wiki](https://ausmanki.github.io/cybersec-wiki).
 
